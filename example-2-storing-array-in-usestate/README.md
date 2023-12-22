@@ -1,0 +1,1 @@
+example storing array inn useState
